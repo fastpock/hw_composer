@@ -1,0 +1,17 @@
+{
+    "name": "andrew/5",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fastpock",
+            "email": "slepynin@protonmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Vendor\\Namespace\\": ""
+        }
+    }
+}
